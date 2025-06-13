@@ -1,5 +1,5 @@
 {
-  "name": "sftp-uploader",
+  "name": "@ytw/sftp-uploader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
